@@ -1,11 +1,12 @@
 user_id,full_name,email,num_videos_watched,avg_watch_time_per_day,last_login_days_ago,support_tickets,tenure_months,churn,churn_probability
-1,shubham borse,shubhamborse719@gmail.com,0,0,0,0,6,0,0.67
-2,mahesh kale,kalemahesh07@gmail.com,0,0,0,0,6,0,0.67
-3,Dnyanu,chitale@gmail.com,0,0,0,0,6,0,0.1
-4,ghjkl,fdghj@gmail.com,0,0,0,0,6,0,0.02
-5,karan sathe,karan@gmail.com,0,0,0,0,6,0,0.0
-7,Dnyanu,chitale12@gmail.com,0,0,0,0,6,0,0.0
-8,om,om@gmail.com,0,0,0,0,6,0,0.0
-9,mahesh,mahesh@gmail.com,0,0,0,0,6,0,0.0
-11,chitale,chitale1@gmail.com,0,0,0,0,6,0,0.0
-13,om,om12@gmail.com,0,0,0,0,6,0,0.0
+1,Dnyanu jivade,jivadednyaneshwar7@gmail.com,3,0.066667,0,0,6,0,1.0
+2,Dnyanu,jivade@gmail.com,4,0.04,0,0,6,0,1.0
+3,mahesh,jivadednyaneshwar007@gmail.com,0,0.0,0,0,6,0,1.0
+5,Dnyanu jivade,jivadednyaneshwar0107@gmail.com,1,0.06,0,0,6,0,1.0
+6,mahesh,dnyaneshwarchitale153@gmail.com,2,0.04,0,0,6,0,1.0
+8,mahesh,jivadednyaneshwar70@gmail.com,1,0.07,0,0,6,0,1.0
+9,njn,dd@gmail.com,1,0.04,0,0,6,0,1.0
+11,shubham Rajendra Borse,shubhamborse19@gmail.com,1,0.17,0,0,6,0,1.0
+12,vikram,vikram@gmail.com,5,0.178,0,0,6,0,1.0
+15,dada sanap,dadasanap@gmail.com,1,0.18,0,0,6,0,1.0
+16,vikram1234,jivadednyaneshwar0207@gmail.com,0,0.0,0,0,6,0,1.0

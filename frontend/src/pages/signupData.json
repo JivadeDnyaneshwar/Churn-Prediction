@@ -1,0 +1,9 @@
+{
+  "title": "Create New Account",
+  "subtitle": "Join Netflix to watch movies and TV shows anytime, anywhere.",
+  "fullNameLabel": "Full Name",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "••••••••",
+  "buttonText": "Sign Up"
+}

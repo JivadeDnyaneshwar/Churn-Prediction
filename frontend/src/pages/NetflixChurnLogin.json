@@ -1,0 +1,16 @@
+{
+  "title": "Login to Netflix Churn Predictor",
+ 
+  "emailLabel": "Email",
+  "emailPlaceholder": "your.email@example.com",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "••••••••",
+  "loginButton": "Login",
+  "forgotPassword": "Forgot Password?",
+  "createAccount": "Create an account",
+  "invalidMessage": "Invalid email or password.",
+  "welcomeTitle": "Welcome",
+  "welcomeMessage": "You are logged in to the Netflix Churn Predictor demo.",
+  "openApp": "Open Churn Predictor",
+  "logout": "Logout"
+}

@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  background-color: #000;
+  font-family: "Poppins", sans-serif;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.login-box {
+  background-color: #1e1f23;
+  color: #fff;
+  width: 100%;
+  max-width: 380px;
+  padding: 20px 50px 40px 30px;
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.6);
+}
+
+.login-title {
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+
+
+
+/* 🎯 Label */
+.input-label {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #ddd;
+  margin-bottom: 6px;
+  display: block;
+}
+
+/* 🎯 Input */
+.input-box {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: none;
+  background-color: #2c2e35;
+  color: #fff;
+  margin-bottom: 1rem;
+  outline: none;
+  transition: 0.2s;
+}
+
+.input-box:focus {
+  box-shadow: 0 0 0 2px #e50914;
+}
+
+/* 🎯 Buttons */
+.btn-login,
+.btn-account
+ {
+  width: 50%;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.25s;
+  margin-bottom: 1rem;
+ 
+}
+
+.btn-login {
+  background-color: #e50914;
+  color: #fff;
+}
+
+.btn-login:hover {
+  opacity: 0.9;
+}
+
+.btn-account{
+  position: relative;
+  left: 6%;
+}
+
+.btn-logout:hover {
+  background-color: #333;
+}
+
+/* 🎯 Links */
+.links {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+}
+
+.links a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.links a:hover {
+  color: #e50914;
+}
+
+/* 🎯 Error text */
+.error-text {
+  color: #f87171;
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}

@@ -1,0 +1,40 @@
+{
+  "trending": [
+    {
+      "id": 1,
+      "title": "Big Buck Bunny",
+      "genre": "Animation",
+      "duration": "12:45",
+      "image": "https://www.w3schools.com/html/img_chania.jpg",
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Bear in River",
+      "genre": "Nature",
+      "duration": "5:12",
+      "image": "https://www.w3schools.com/html/img_girl.jpg",
+      "video": "https://www.w3schools.com/html/movie.mp4"
+    }
+  ],
+  "continueWatching": [
+    {
+      "id": 3,
+      "title": "Sample Bunny Video",
+      "genre": "Wildlife",
+      "duration": "8:45",
+      "image": "https://www.w3schools.com/html/img_lights.jpg",
+      "video": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 4,
+      "title": "HTML5 Nature Clip",
+      "genre": "Documentary",
+      "duration": "7:22",
+      "image": "https://www.w3schools.com/html/img_mountains.jpg",
+      "video": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_30mb.mp4"
+    }
+  ]
+}

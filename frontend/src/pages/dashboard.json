@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "subs": "Premium",
+    "hours": "350 hrs",
+    "churn": "15.0% (Low Risk)",
+    "last": "2023-11-28"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "subs": "Basic",
+    "hours": "80 hrs",
+    "churn": "72.0% (High Risk)",
+    "last": "2023-11-25"
+  },
+  {
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "subs": "Standard",
+    "hours": "210 hrs",
+    "churn": "48.0% (Low Risk)",
+    "last": "2023-11-29"
+  },
+  {
+    "name": "Diana Prince",
+    "email": "diana@example.com",
+    "subs": "Premium",
+    "hours": "420 hrs",
+    "churn": "5.0% (Low Risk)",
+    "last": "2023-11-30"
+  }
+]

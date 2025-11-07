@@ -1,0 +1,15 @@
+{
+  "lineData": [
+    { "month": "Jan", "hours": 120 },
+    { "month": "Feb", "hours": 150 },
+    { "month": "Mar", "hours": 180 },
+    { "month": "Apr", "hours": 220 },
+    { "month": "May", "hours": 260 }
+  ],
+  "donutData": [
+    { "name": "Active Users", "value": 8500 },
+    { "name": "Churned Users", "value": 1340 },
+      { "name": "Active Users", "value": 8500 },
+    { "name": "Churned Users", "value": 1340 }
+  ]
+}

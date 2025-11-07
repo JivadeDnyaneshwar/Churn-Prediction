@@ -1,0 +1,224 @@
+.app {
+  background-color: #0f0f10;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.section {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.section h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: left;
+  margin-left: 3%;
+  opacity: 0.9;
+}
+
+.movie-grid {
+  width: 95%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+/* 🎬 Each video card */
+.movie-card {
+  background: #1c1c1e;
+  border-radius: 14px;
+  overflow: hidden;
+  width: 240px;
+  min-height: 320px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* 🖼 Image / Video styling */
+.movie-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.react-player {
+  width: 100% !important;
+  height: 160px !important;
+  border-bottom: 1px solid #333;
+  background: black;
+}
+
+/* 📜 Info Section */
+.movie-info {
+  padding: 12px;
+  text-align: left;
+}
+
+.movie-info h3 {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+.movie-info p {
+  font-size: 0.85rem;
+  color: #aaa;
+  margin: 0;
+}
+
+.watch-btn {
+  background-color: #ff004f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+
+.watch-btn:hover {
+  background-color: #e60047;
+  transform: scale(1.03);
+}
+
+/* 🕒 Progress Info under video */
+.progress-info {
+  background: #1a1a1a;
+  color: #ff004f;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 6px 0;
+  border-top: 1px solid #333;
+  transition: color 0.3s ease;
+}
+
+.progress-info p {
+  margin: 0;
+  color: #ff3366;
+}
+
+.movie-card:hover .progress-info p {
+  color: #fff;
+}
+
+/* 🧭 Admin Button */
+.admin-header {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 10000;
+}
+
+.admin-btn {
+  background-color: #ff004f;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.4);
+}
+
+.admin-btn:hover {
+  background-color: #e60047;
+  transform: scale(1.05);
+}
+
+/* 🖥 Responsive grid */
+@media (max-width: 768px) {
+  .movie-card {
+    width: 180px;
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .movie-card {
+    width: 160px;
+    min-height: 260px;
+  }
+}
+/* Popup player overlay */
+.video-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+/* Popup content box */
+.video-popup-content {
+  background: #1b1b1d;
+  border-radius: 12px;
+  padding: 20px;
+  width: 80%;
+  max-width: 900px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(255, 0, 79, 0.4);
+  position: relative;
+  animation: fadeIn 0.3s ease;
+}
+
+.close-popup {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: none;
+  border: none;
+  color: #ff004f;
+  font-size: 1.5rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.close-popup:hover {
+  color: white;
+}
+
+.popup-progress {
+  margin-top: 10px;
+  color: #ff3366;
+  font-weight: 500;
+}
+
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

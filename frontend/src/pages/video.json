@@ -2,103 +2,103 @@
   "trending": [
     {
       "id": 1,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Music Video 1",
       "genre": "Music",
       "duration": "3:45",
-      "image": "https://www.w3schools.com/html/img_chania.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_chania.jpg"
     },
     {
       "id": 2,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Tech Clip 1",
       "genre": "Tech",
       "duration": "4:12",
-      "image": "https://www.w3schools.com/html/img_girl.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_girl.jpg"
     },
     {
       "id": 3,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Movie Trailer 1",
       "genre": "Movie",
       "duration": "5:22",
-      "image": "https://www.w3schools.com/html/img_lights.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_lights.jpg"
     },
     {
       "id": 4,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Music Video 2",
       "genre": "Music",
       "duration": "3:55",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_mountains.jpg"
     }
   ],
   "continueWatching": [
     {
       "id": 5,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Tech Clip 2",
       "genre": "Tech",
       "duration": "4:45",
-      "image": "https://www.w3schools.com/html/img_chania.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_chania.jpg"
     },
     {
       "id": 6,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Movie Trailer 2",
       "genre": "Movie",
       "duration": "6:12",
-      "image": "https://www.w3schools.com/html/img_girl.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_girl.jpg"
     },
     {
       "id": 7,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Music Video 3",
       "genre": "Music",
       "duration": "3:35",
-      "image": "https://www.w3schools.com/html/img_lights.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_lights.jpg"
     },
     {
       "id": 8,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Tech Clip 3",
       "genre": "Tech",
       "duration": "5:05",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_mountains.jpg"
     }
   ],
   "recommended": [
     {
       "id": 9,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Movie Trailer 3",
       "genre": "Movie",
       "duration": "6:30",
-      "image": "https://www.w3schools.com/html/img_chania.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_chania.jpg"
     },
     {
       "id": 10,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Music Video 4",
       "genre": "Music",
       "duration": "4:50",
-      "image": "https://www.w3schools.com/html/img_girl.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_girl.jpg"
     },
     {
       "id": 11,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Tech Clip 4",
       "genre": "Tech",
       "duration": "5:15",
-      "image": "https://www.w3schools.com/html/img_lights.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_lights.jpg"
     },
     {
       "id": 12,
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
       "title": "Movie Trailer 4",
       "genre": "Movie",
       "duration": "7:00",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg",
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "image": "https://www.w3schools.com/html/img_mountains.jpg"
     }
   ]
 }

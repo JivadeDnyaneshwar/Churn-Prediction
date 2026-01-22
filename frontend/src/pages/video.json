@@ -2,103 +2,103 @@
   "trending": [
     {
       "id": 1,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Music Video 1",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "title": "Electric Night Beats",
       "genre": "Music",
       "duration": "3:45",
-      "image": "https://www.w3schools.com/html/img_chania.jpg"
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 2,
       "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Tech Clip 1",
+      "title": "Inside the Tech World",
       "genre": "Tech",
       "duration": "4:12",
-      "image": "https://www.w3schools.com/html/img_girl.jpg"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 3,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Movie Trailer 1",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+      "title": "Rise of the Hero",
       "genre": "Movie",
       "duration": "5:22",
-      "image": "https://www.w3schools.com/html/img_lights.jpg"
+      "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 4,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Music Video 2",
+      "video": "https://www.w3schools.com/html/movie.mp4",
+      "title": "Urban Sound Waves",
       "genre": "Music",
       "duration": "3:55",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg"
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80"
     }
   ],
   "continueWatching": [
     {
       "id": 5,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Tech Clip 2",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "title": "Coding the Future",
       "genre": "Tech",
       "duration": "4:45",
-      "image": "https://www.w3schools.com/html/img_chania.jpg"
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 6,
       "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Movie Trailer 2",
+      "title": "Dark Horizon",
       "genre": "Movie",
       "duration": "6:12",
-      "image": "https://www.w3schools.com/html/img_girl.jpg"
+      "image": "https://images.unsplash.com/photo-1505685296765-3a2736de412f?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 7,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Music Video 3",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+      "title": "Sound of the Streets",
       "genre": "Music",
       "duration": "3:35",
-      "image": "https://www.w3schools.com/html/img_lights.jpg"
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 8,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Tech Clip 3",
+      "video": "https://www.w3schools.com/html/movie.mp4",
+      "title": "AI Explained Simply",
       "genre": "Tech",
       "duration": "5:05",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg"
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80"
     }
   ],
   "recommended": [
     {
       "id": 9,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Movie Trailer 3",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "title": "Legend of the Lost City",
       "genre": "Movie",
       "duration": "6:30",
-      "image": "https://www.w3schools.com/html/img_chania.jpg"
+      "image": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 10,
       "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Music Video 4",
+      "title": "Midnight Bass Drop",
       "genre": "Music",
       "duration": "4:50",
-      "image": "https://www.w3schools.com/html/img_girl.jpg"
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 11,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Tech Clip 4",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+      "title": "Building Smart Systems",
       "genre": "Tech",
       "duration": "5:15",
-      "image": "https://www.w3schools.com/html/img_lights.jpg"
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 12,
-      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "title": "Movie Trailer 4",
+      "video": "https://www.w3schools.com/html/movie.mp4",
+      "title": "Beyond the Galaxy",
       "genre": "Movie",
       "duration": "7:00",
-      "image": "https://www.w3schools.com/html/img_mountains.jpg"
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80"
     }
   ]
 }

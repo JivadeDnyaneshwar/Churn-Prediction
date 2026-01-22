@@ -1,12 +1,11 @@
 user_id,full_name,email,num_videos_watched,avg_watch_time_per_day,last_login_days_ago,support_tickets,tenure_months,churn
-1,Dnyanu jivade,jivadednyaneshwar7@gmail.com,3,0.066667,0,0,6,0
-2,Dnyanu,jivade@gmail.com,4,0.040000,0,0,6,0
-3,mahesh,jivadednyaneshwar007@gmail.com,0,0.000000,0,0,6,0
-5,Dnyanu jivade,jivadednyaneshwar0107@gmail.com,1,0.060000,0,0,6,0
-6,mahesh,dnyaneshwarchitale153@gmail.com,2,0.040000,0,0,6,0
-8,mahesh,jivadednyaneshwar70@gmail.com,1,0.070000,0,0,6,0
-9,njn,dd@gmail.com,1,0.040000,0,0,6,0
-11,shubham Rajendra Borse,shubhamborse19@gmail.com,1,0.170000,0,0,6,0
-12,vikram,vikram@gmail.com,5,0.178000,0,0,6,0
-15,dada sanap,dadasanap@gmail.com,1,0.180000,0,0,6,0
-16,vikram1234,jivadednyaneshwar0207@gmail.com,0,0.000000,0,0,6,0
+1,Dnyanu,Dnyanu@gmail.com,1,0.080000,64,0,6,0
+2,shubham,shubham@gmail.com,1,0.170000,73,0,6,0
+3,mahesh,mahesh@gmail.com,1,0.150000,73,0,6,0
+4,rohit,rohit@gmail.com,0,0.000000,0,0,6,0
+5,vikram,vikram@gmail.com,0,0.000000,0,0,6,0
+6,test,test@gmail.com,1,0.170000,73,0,6,0
+7,xyz,xyz@gmail.com,2,0.150000,64,0,6,0
+8,Dnyanu jivade,jivadednyaneshwa2r7@gmail.com,0,0.000000,0,0,6,0
+9,sww,jivadednyaneshwar7@gmxail.com,0,0.000000,0,0,6,0
+10,pytgfc,jivadednyaneshwar07@gmail.com,0,0.000000,0,0,6,0

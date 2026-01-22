@@ -7,6 +7,7 @@
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
+  
 }
 
 .section {
@@ -146,20 +147,7 @@
   transform: scale(1.05);
 }
 
-/* 🖥 Responsive grid */
-@media (max-width: 768px) {
-  .movie-card {
-    width: 180px;
-    min-height: 280px;
-  }
-}
 
-@media (max-width: 480px) {
-  .movie-card {
-    width: 160px;
-    min-height: 260px;
-  }
-}
 /* Popup player overlay */
 .video-popup-overlay {
   position: fixed;

@@ -128,3 +128,60 @@
   font-weight: 600;
   color: #22c55e;
 }
+/* 🔥 Table gap styling */
+.table-container table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px; /* ⬅ gap between rows */
+}
+
+.table-container th {
+  /* background: #f0f0f0; */
+  padding: 10px;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.table-container td {
+  /* background: #fff; */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+/* Optional hover effect */
+.table-container tr:hover td {
+  /* background: #f9fafb; */
+  transition: 0.2s ease;
+}
+
+@media (max-width: 740px) {
+  .section {
+   display: flex;
+   flex-direction: column;
+
+}
+.charts-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+}
+.scrollable {
+  max-height: 350px;
+  overflow-y: auto;
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.table-container th, .table-container td {
+  padding: 10px;
+  border-bottom: 1px solid #444;
+}
+
+.table-container tr:hover {
+  background-color: #1e1e1e;
+}

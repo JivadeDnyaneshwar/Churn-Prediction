@@ -78,3 +78,8 @@
 .btn-primary:hover {
   background-color: #f6121d;
 }
+@media (max-width: 740px) {
+  .signup-container {
+    margin: 20px;
+  }
+}

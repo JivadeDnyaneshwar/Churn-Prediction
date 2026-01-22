@@ -4,7 +4,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import NetflixChurnLogin from "./pages/NetflixChurnLogin";
 import SignUpForm from "./pages/SignUpForm";
 import Video from "./pages/video";
-import Dashboard from "./pages/dashboard";
+import Dashboard from "./pages/Dashboard";
 import AdminLogin from "./pages/AdminLogin"; // ✅ Admin login page
 
 export default function App() {

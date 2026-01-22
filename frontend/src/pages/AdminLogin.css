@@ -1,47 +1,80 @@
+/* AdminLogin.css */
+
+/* Container */
 .admin-login-container {
-  height: 100vh;
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #0f0f0f, #1f1f1f);
+  position: relative;
 }
 
-.admin-login-box {
-  background: #141414;
+/* Alert message */
+.admin-login-message {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.admin-login-message.success {
+  background-color: #28a745; /* green */
+}
+
+.admin-login-message.error {
+  background-color: #dc3545; /* red */
+}
+
+/* Form */
+.admin-login-form {
+  background-color: #1f1f1f;
   padding: 30px;
   border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
   width: 320px;
-  box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
-  color: white;
   text-align: center;
+   box-shadow: 0 0 20px rgb(255, 0, 0, 0.3);
 }
 
-.admin-login-box input {
+.admin-login-form h2 {
+  margin-bottom: 20px;
+}
+
+/* Inputs */
+.admin-login-form input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+/* Last input margin fix */
+.admin-login-form input[type="password"] {
+  margin-bottom: 15px;
+}
+
+/* Button */
+.admin-login-form button {
   width: 100%;
   padding: 10px;
-  margin: 10px 0;
-  background: #1f1f1f;
-  border: 1px solid #e50914;
-  border-radius: 6px;
+  border-radius: 8px;
+  background-color: #e50914;
   color: white;
-}
-
-.admin-login-box button {
-  background: #e50914;
-  color: white;
+  font-weight: 600;
   border: none;
-  padding: 10px 0;
-  width: 100%;
-  border-radius: 6px;
   cursor: pointer;
-  transition: 0.3s;
 }
-
-.admin-login-box button:hover {
-  background: #b00610;
-}
-
-.error {
-  color: #ff4d4d;
-  margin-top: 10px;
+@media (max-width: 740px) {
+ .admin-login-form  {
+    margin: 20px;
+  }
 }
